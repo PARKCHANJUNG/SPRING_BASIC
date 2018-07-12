@@ -5,7 +5,6 @@ import java.util.List;
 import lombok.Builder;
 import lombok.Singular;
 import lombok.ToString;
-import lombok.extern.slf4j.Slf4j;
 
 @Builder
 @ToString
