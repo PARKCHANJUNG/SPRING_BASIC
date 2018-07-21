@@ -10,8 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.spring.basic.lombok.bean.Computer;
 
-import lombok.extern.slf4j.Slf4j;
-
 @RestController
 public class ComputerCtrl {
 	

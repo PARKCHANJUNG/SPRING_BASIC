@@ -25,8 +25,14 @@
 		</encoder>
 	</appender>
 
-	<logger name="org.springframework" level="info" />
-	<logger name="org.hibernate" level="debug" />
+	<logger name="jdbc" level="OFF" />
+
+	<logger name="jdbc.sqlonly" level="OFF" />
+	<logger name="jdbc.sqltiming" level="DEBUG" />
+	<logger name="jdbc.audit" level="OFF" />
+	<logger name="jdbc.resultset" level="OFF" />
+	<logger name="jdbc.resultsettable" level="DEBUG" />
+	<logger name="jdbc.connection" level="OFF" />
 
 	<root level="debug">
 		<appender-ref ref="CONSOLE" /> <!-- Console에 로그를 출력하고자 할 때 사용 -->
