@@ -7,7 +7,7 @@ import lombok.Singular;
 import lombok.ToString;
 
 /**
- * 깃 스테이지체인지 테스트
+ * 
  * @author parkchanjung
  *
  */
