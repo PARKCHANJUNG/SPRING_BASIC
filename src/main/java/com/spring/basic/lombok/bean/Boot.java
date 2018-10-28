@@ -6,6 +6,11 @@ import lombok.Builder;
 import lombok.Singular;
 import lombok.ToString;
 
+/**
+ * 
+ * @author parkchanjung
+ *
+ */
 @Builder
 @ToString
 public class Boot {
