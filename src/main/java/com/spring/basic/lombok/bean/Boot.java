@@ -7,7 +7,7 @@ import lombok.Singular;
 import lombok.ToString;
 
 /**
- * branch - develop update
+ * branch - master update
  * @author parkchanjung
  *
  */
