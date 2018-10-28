@@ -6,11 +6,6 @@ import lombok.Builder;
 import lombok.Singular;
 import lombok.ToString;
 
-/**
- * branch - master update1
- * @author parkchanjung
- *
- */
 @Builder
 @ToString
 public class Boot {
