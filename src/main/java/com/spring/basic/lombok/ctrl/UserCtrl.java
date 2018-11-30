@@ -11,7 +11,7 @@ public class UserCtrl {
 
 	@Test
 	public void getUser(HttpServletRequest request, HttpServletResponse response) {
-		//ERROR -> @NonNull때문에
+		//ERROR -> @NonNull때문에1
 		//User user = new User();
 	}
 }
